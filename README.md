@@ -52,7 +52,7 @@ This app was created as the JavaScript class group project at Epicodus by:
 * Josh Huffman - j.m.huffman@gmail.com
 * Tim Bourgault - tim.bourgault@gmail.com
 * Chance Neff - crneff84@gmail.com
-* Matthew Brandenburg - matt.bran87@gmail.com
+* Matt Brandenburg - matt.bran87@gmail.com
 
 ### License
 Licensed under the MIT License
