@@ -1,6 +1,6 @@
 # Coffee Inventory
 
-This application is designed to allow a coffee roastery to manage their inventory from the ordering of green coffee beans through the fulfillment of orders.
+This application is designed to allow a coffee roastery to manage their inventory from the ordering of green coffee beans through the fulfillment of orders. 
 
 ## Prerequisites 
 
