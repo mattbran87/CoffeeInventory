@@ -2,7 +2,7 @@
 
 This application is designed to allow a coffee roastery to manage their inventory from the ordering of green coffee beans through the fulfillment of orders.
 
-## Prerequisites
+## Prerequisites 
 
 You will need the following things properly installed on your computer.
 
